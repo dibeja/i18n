@@ -1,0 +1,115 @@
+#####################################
+#
+#  Italian (by Dibeja)
+# 
+# ###################################
+
+en:
+
+  # Universal
+  add: Aggiungi
+  delete: cancella
+  list: Lista
+  none: Nessuno
+  view: Visualizza
+
+  # Nav
+  dashboard: Cruscotto
+  pages: Pagine
+  members: Utenti
+  account: Profilo
+  system: Impostazioni
+  help: Aiuto
+  view_site: Visualizza Sito
+  logout: Esci
+
+  # Entries
+  entry: Contenuto
+  create_entry: Crea Contenuto
+  delete_entry: Cancella Contenuto
+  view_entry: Visualizza Conctenuto
+  list_entries: Lista Contenuti
+
+  # Pages
+  page: Pagina
+  new_top_level_page: Nuova Pagina Top
+  site_pages: Pagine del Sito
+  
+  new_child_page: Nuova Pagina Sub
+  view_page: Visualizza Pagina
+  select_new_page_type: Seleziona il Nuovo Tipo di Pagina
+
+  # Publish
+  title: Titolo
+  slug: Slug
+  date: Data
+  number: Numero
+  editing: Modifica
+  enter_title: Inserisci un titolo...
+  order_number: Ordinamento
+  publish_date: Data di pubblicazione
+  publish_time: Ora di pubblicazione
+  save_publish: 'Salva e Pubblica'
+  content: Contenuto
+
+  # Statuses
+  status: Status
+  live: Online
+  draft: Bozza
+  hidden: Nascosta
+
+  # Members and forms
+  login: Accedi
+  admin: Admin
+  username: Username
+  password: Password
+  password_confirmation: Conferma Password
+  type_again: 'Ripetila, per favore'
+  encrypt_password: Criptare la Password?
+  first_name: Nome
+  last_name: Cognome
+  biography: Biografia
+  role: Ruolo
+  member: Utente
+  new_member: Nuovo Utente
+
+  # Messages, Errors & Confirmations
+  admin_404: 'La pagina non esiste.'
+  already_exists: esiste già
+  is_required: è obbligatorio
+  content_not_writable: La cartella Content non è scrivibile
+  users_not_writable: La cartella Users non è scrivibile
+  msg_password_encrypted: 'La password è stata criptata. Fai di nuovo il login.'
+  incorrect_username: Username non trovato
+  incorrect_password: Password non corretta
+  incorrect_username_password: 'Username o password errati. Prova di nuovo.'
+  entry_deleted: 'Contenuto eliminato con successo!'
+  page_saved: 'Pagina salvata con successo!'
+  entry_saved: 'Contenuto salvato con successo!' 
+  member_saved: 'Utente salvato con successo!'
+
+  error: Errore
+  error_form_submission: "Spiacente, un errore ha impedito l\'invio del form."
+  are_you_sure: Sei sicuro? Non puoi tornare indietro.
+  access_denied: Accesso Rifiutato
+  enable_curl: cURL deve essere abilitato per procedere al test di sicurezza.
+
+  # System
+  system_status: Stato del Sistema
+  system_files_security_check: Controllo di sicurezza per i file di sistema
+  folder_file: Cartella/File
+  action_required: Azione necessaria
+  secure: Sicuro
+  unsecure: Insicuro
+  user_accounts_security_check: Controllo di sicurezza dell' account utente
+  user_file: File User
+  encrypted: Criptato
+  unencrypted: Non criptato
+  action_encrypt_password: Cripta password
+  security_app_folder: "La cartella applicazione è accedibile dal web. Seppure non sia un problema critico, sarebbe meglio proteggere questa cartella.",
+  security_config_folder: "La cartella config è accedibile dal web. E' obbligatorio proteggere questa cartella.",
+  security_settings_files: "I tuoi file di configurazione sono accedibili dal web. E' obbligatorio proteggere questi file.",
+  security_user_files: "I tuoi file utente sono accedibili dal web. E' obbligatorio proteggere questi file.",
+  security_content_folder: "La tua cartella content è accedibile dal web. Seppure non sia un problema critico, sarebbe meglio proteggere questa cartella.",
+  security_template_files: "I tuoi file di tema sono accedibili dal web.Seppure non sia un problema critico, sarebbe meglio proteggere questi file."
+  
